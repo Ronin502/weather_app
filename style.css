@@ -54,4 +54,19 @@ button:hover {
 
 h1.temp {
     margin: 0;
+    margin-bottom: 0.4em;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    text-transform: capitalize;
+    margin-left: 0px;
+}
+
+.humidity {
+    margin-bottom: 15px;
 }
